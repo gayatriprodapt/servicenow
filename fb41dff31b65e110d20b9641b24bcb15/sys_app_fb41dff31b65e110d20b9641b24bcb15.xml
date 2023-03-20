@@ -29,15 +29,15 @@
         <sys_created_by>Vasu</sys_created_by>
         <sys_created_on>2023-03-20 08:31:16</sys_created_on>
         <sys_id>fb41dff31b65e110d20b9641b24bcb15</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>20713</sys_updated_by>
-        <sys_updated_on>2023-03-20 09:03:47</sys_updated_on>
+        <sys_updated_on>2023-03-20 09:15:32</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>
